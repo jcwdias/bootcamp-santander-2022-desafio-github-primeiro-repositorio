@@ -1,2 +1,2 @@
-# bootcamp-santander-2022-desafio-github-primeiro-repositorio
+# Repositório sobre o projeto de Git/Github da DIO
 Desafio de projeto de Git/Github
